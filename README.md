@@ -132,7 +132,7 @@ command to run if program contains helper info
 
 ## Authors
 Prasad Liyanage (PhD)
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+
 
 ## Version History
 
