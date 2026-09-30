@@ -118,18 +118,6 @@ Sensitivity analyses evaluate the robustness of the estimated climate–disease 
 
 source("code/Case_6_Model_Lepto_Sensitivity.R")
 
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-
-```
-command to run if program contains helper info
-```
-
 ## Authors
 Prasad Liyanage (PhD)
 
